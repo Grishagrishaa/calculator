@@ -2,7 +2,7 @@
 
 ## How to run
 1. Build project: $ mvn clean install
-2. To run: $ java -jar ./target/calculator-1.0-SNAPSHOT.jar <operation>
+2. To run: $ java -jar ./target/calculator-1.0-SNAPSHOT.jar *expression*
 
 ## Application support both Arabic and Roman digits. 
 
