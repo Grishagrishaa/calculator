@@ -1,4 +1,4 @@
-# Calculator | Simple Java application made as freelance project
+# Calculator | Simple Java application made as a freelance project
 
 ## How to run
 1. Build project: $ mvn clean install
